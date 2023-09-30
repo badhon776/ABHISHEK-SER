@@ -10,7 +10,7 @@ global.owner = [BADHON
   ['7384674319', 'ABHISHEK-SURESH', true],
   [''],
   [''] 
-] //Number of owners
+] //7384674319
 
 global.mods = ['7384674319','7384674319'] 
 global.prems = ['7384674319', '7384674319', '7384674319']
